@@ -13,7 +13,7 @@ Brand new sniper bot using a range of high quality features to ensure it deliver
     
     bot will check clipboard continuously until it has text that holds an address  
       
- 
+-   Use multiple instances / wallets at the same time with ease
     
 -   Max FEE - BOT PREVENTION
     
